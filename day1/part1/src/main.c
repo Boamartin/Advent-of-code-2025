@@ -11,8 +11,8 @@ int numberOfZeros = 0;
 
 void main(void)
 {
-    // FILE *file = fopen("test1.txt", "r");
-    FILE *file = fopen("input1.txt", "r");
+    FILE *file = fopen("test1.txt", "r");
+    // FILE *file = fopen("input1.txt", "r");
 
     char dir;
     int length;
